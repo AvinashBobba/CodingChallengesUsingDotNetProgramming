@@ -19,3 +19,21 @@ Dot Net Challenges and Interview coding exams
    Output : -- -.--/- . ... -/... - .-. .. -. --.
 
 **--------------------------------------------------------------------------------------------------------------------------**
+3 . Cyclic Rotation : **Rotate an array to the right by the given number of steps**
+
+	PROBLEM : Given an array [1,2,3,4] based on the key provided shift the spaces 
+
+	Inputs : array = {1,2,3,4} K =2 
+	Output : array = {3,4,1,2}
+**----------------------------------------------------------------------------------------------------------------------------**
+4. Odd Occurancy : **Find the occurance in odd number of elements**
+
+	PROBLEM : 
+	Inputs : 
+	Output :
+**----------------------------------------------------------------------------------------------------------------------------**
+5. Frog Jump 
+	PROBLEM : 
+	Inputs : 
+	Output :
+**----------------------------------------------------------------------------------------------------------------------------**
